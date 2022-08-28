@@ -80,9 +80,13 @@ const About = () => {
         <div className="flex items-center mt-6">
           <p className="mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50">
             &copy; {new Date().getFullYear()} designed by{' '}
-            <a href="https://github.com/issaafalkattan" rel="nofollow">
-              Issaaf Kattan
+            <a href="https://engineeruncle.in" rel="nofollow">
+              EngineerUncle.in
             </a>
+          </p>
+          <p className='"mt-6 text-xs lg:text-sm leading-none text-gray-900 dark:text-gray-50'>
+            Webel bhavan - EP & GP, Sector V Salt Lake, Street Number 30,
+            Bidhannagar, Kolkata, West Bengal 700091
           </p>
         </div>
       </div>
